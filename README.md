@@ -1,5 +1,6 @@
 # ubersicht-widgets-customized
 A few widgets for Ubersicht for OSX
+I didn't create these completely from scratch, but I took existing widgets and tweaked them to my own flavour. The result is a few lightweight, minimal widgets that I hope you'll like too! 
 
 ![A quick preview](https://raw.githubusercontent.com/mishalbashir/ubersicht-widgets-customized/master/preview.png)
 
